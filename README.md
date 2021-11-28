@@ -14,7 +14,7 @@ The purpose of this project will be to visually show the locations of earthquake
 magnitudes of the earthquakes. 
 
 
-The final maps for this project can be seen below.
+A final map for this project can be seen below.
 
 ![This is an image](https://github.com/jstawarz/mapping_eathquakes/blob/main/final_maps.png)
  
